@@ -15,11 +15,11 @@ mod 'ntp',
   :ref => '3.0.4'
 
 mod 'apache',
-  :git => 'git://github.com/puppetlabs/puppetlabs-apache.git'
+  :git => 'git://github.com/puppetlabs/puppetlabs-apache.git',
   :ref => '1.0.1'
 
 mod 'inifile',
-  :git => 'git://github.com/puppetlabs/puppetlabs-inifile.git'
+  :git => 'git://github.com/puppetlabs/puppetlabs-inifile.git',
   :ref => '1.0.3'
 
 mod 'mysql',
