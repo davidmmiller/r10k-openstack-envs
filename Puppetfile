@@ -2,6 +2,10 @@ mod 'stdlib',
   :git => 'git://github.com/puppetlabs/puppetlabs-stdlib.git',
   :ref => '4.2.1'
 
+mod 'concat',
+  :git => 'https://github.com/puppetlabs/puppetlabs-concat.git',
+  :ref => '1.1.0'
+
 mod 'apt',
   :git => 'git://github.com/puppetlabs/puppetlabs-apt.git',
   :ref => '1.4.2'
