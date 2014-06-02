@@ -32,11 +32,11 @@ mod 'vswitch',
 
 mod 'rabbitmq',
   :git => 'git://github.com/puppetlabs/puppetlabs-rabbitmq.git',
-  :ref => '0.1.1'
+  :ref => '4.0.0'
 
 mod 'memcached',
   :git => 'git://github.com/saz/puppet-memcached',
-  :ref => '2.4.0'
+  :ref => 'v2.4.0'
 
 mod 'keystone',
   :git => 'git://github.com/stackforge/puppet-keystone.git',
