@@ -12,7 +12,7 @@ mod 'apt',
 
 mod 'ntp',
   :git => 'git://github.com/puppetlabs/puppetlabs-ntp.git',
-  :ref => '3.0.4'
+  :ref => '3.1.x'
 
 mod 'apache',
   :git => 'git://github.com/puppetlabs/puppetlabs-apache.git',
